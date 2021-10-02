@@ -1,0 +1,7 @@
+*fif
+ds000248/
+*.pdf
+*.mat
+.DS_Store
+.ipynb_checkpoints/
+*.csv
