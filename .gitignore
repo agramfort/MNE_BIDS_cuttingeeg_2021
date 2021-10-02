@@ -5,3 +5,7 @@ ds000248/
 .DS_Store
 .ipynb_checkpoints/
 *.csv
+*.stc
+*.jpg
+*.png
+advanced
